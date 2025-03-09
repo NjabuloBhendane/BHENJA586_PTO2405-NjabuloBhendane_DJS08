@@ -1,5 +1,5 @@
 import React from "react";
-import bgImg from "/images/about-hero";
+import bgImg from "/images/about-hero.png";
 import { Link } from "react-router-dom";
 
 function About() {
